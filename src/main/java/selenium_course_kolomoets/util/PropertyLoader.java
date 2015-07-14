@@ -1,4 +1,4 @@
-package ru.st.selenium.util;
+package selenium_course_kolomoets.util;
 
 import java.io.IOException;
 import java.util.Properties;

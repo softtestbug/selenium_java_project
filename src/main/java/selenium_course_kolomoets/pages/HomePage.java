@@ -1,4 +1,4 @@
-package ru.st.selenium.pages;
+package selenium_course_kolomoets.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

@@ -1,1 +1,1 @@
-# selenium_java_project
+# selenium-course-kolomoets

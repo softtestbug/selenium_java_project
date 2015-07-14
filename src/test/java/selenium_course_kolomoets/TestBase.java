@@ -1,4 +1,4 @@
-package ru.st.selenium;
+package selenium_course_kolomoets;
 
 import java.util.concurrent.TimeUnit;
 
@@ -11,7 +11,7 @@ import org.testng.annotations.BeforeClass;
 
 import ru.stqa.selenium.factory.WebDriverFactory;
 
-import ru.st.selenium.util.PropertyLoader;
+import selenium_course_kolomoets.util.PropertyLoader;
 
 /**
  * Base class for all the TestNG-based test classes

@@ -1,4 +1,4 @@
-package ru.st.selenium;
+package selenium_course_kolomoets;
 
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
@@ -6,7 +6,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
-import ru.st.selenium.pages.HomePage;
+import selenium_course_kolomoets.pages.HomePage;
 
 public class HomePageTest extends TestBase {
 
